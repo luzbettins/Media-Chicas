@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&family=Raleway:ital,wght@0,500;0,600;0,800;1,400&display=swap");
+
+.home h2 {
+  margin: 50px 0;
+  border-bottom: 1px solid #ec6091;
+}
+
+.titulo-skill {
+  font-family: "Patua One", cursive;
+  font-size: 40px;
+  color: #15a5a3;
+}
+
+.estudios {
+  list-style: square;
+  font-family: "Raleway", sans-serif;
+  color: #ec6091;
+  font-size: 25px;
+}
+
+.skill {
+  height: 128px;
+  align-items: center;
+  /* width: 128px; */
+}

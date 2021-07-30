@@ -1,0 +1,23 @@
+h1 {
+  color: #ec6091;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  background-color: #9ae1e2;
+}
+
+p {
+  color: slateblue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+a {
+  color: #f2a7be;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
+
+.icon {
+  height: 100px;
+  width: 100px;
+}
